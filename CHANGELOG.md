@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`eaef370`](https://github.com/stdlib-js/stdlib/commit/eaef370daaae0e0fbcfc97652060c3cc5088ac96) - add C implementation for `stats/base/dists/cosine/cdf` [(#4498)](https://github.com/stdlib-js/stdlib/pull/4498)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3514](https://github.com/stdlib-js/stdlib/issues/3514)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`eaef370`](https://github.com/stdlib-js/stdlib/commit/eaef370daaae0e0fbcfc97652060c3cc5088ac96) - **feat:** add C implementation for `stats/base/dists/cosine/cdf` [(#4498)](https://github.com/stdlib-js/stdlib/pull/4498) _(by Prashant Kumar Yadav, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
