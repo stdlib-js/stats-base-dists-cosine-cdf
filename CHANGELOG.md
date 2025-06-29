@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-29)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`716f93d`](https://github.com/stdlib-js/stdlib/commit/716f93d14c76e1dda5b02c365a17a2519da3cada) - **chore:** add missing benchmark and examples dependencies _(by Philipp Burckhardt)_
 -   [`8dfe021`](https://github.com/stdlib-js/stdlib/commit/8dfe0212136eb297a3d1842a337d179034bdf743) - **fix:** clean-up nonfibonacci implementation and remove unused deps _(by Philipp Burckhardt)_
 -   [`2f1bc9e`](https://github.com/stdlib-js/stdlib/commit/2f1bc9eb0ca087fb141fd68d1fe7704317be49a1) - **bench:** update random value generation [(#7093)](https://github.com/stdlib-js/stdlib/pull/7093) _(by Harsh)_
 -   [`6792321`](https://github.com/stdlib-js/stdlib/commit/6792321ed5029b40a9ed15ac3f2dba212eb713e0) - **docs:** replace manual `for` loop in examples [(#7074)](https://github.com/stdlib-js/stdlib/pull/7074) _(by Harsh)_
